@@ -16,11 +16,12 @@ A responsive Starbucks landing page clone developed using HTML and CSS, focusing
 
 ## Live Demo
 
-https://your-deployment-link.com
+donkm690.github.io/starbucks/
 
 ## Author
 
 DON KM
 
 GitHub: https://github.com/DONKM690
+
 
